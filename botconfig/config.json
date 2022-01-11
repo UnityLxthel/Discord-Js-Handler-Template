@@ -1,7 +1,7 @@
 {
-  "token": "Nzk3MDY2Nzg1OTIwMTIyOTIw.X_hESg.cw39PRH-pGIscLdI1ez3eG7i8O0",
+  "token": "Nzk3MDY2Nzg1OTIwMTIyOTIw.X_hESg.ZHlktcRE29yoJ_5c5lkBt3QNymw",
   "prefix": "!",
-  "loadSlashsGloball": false, "_COMMENT_": "Set it to true, when your Slash Commands are ready, false loads instant true loads slow but stable! (GLOBAL/GUILD COMMANDS, DISCORD DOCS!)",
+  "loadSlashsGloball": true, "_COMMENT_": "Set it to true, when your Slash Commands are ready, false loads instant true loads slow but stable! (GLOBAL/GUILD COMMANDS, DISCORD DOCS!)",
   "slashCommandsDirs": [
         {
                 "Folder": "Info",
